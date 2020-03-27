@@ -9,8 +9,9 @@ int main()
 {
   printf("Started Hacking\n");
     for(int i = 0; i < 6; ++i) {
-      printf("NASA Hacking %d%\n", i * 20);
-      sleep(i * 1000); // later ones take longer
+      printf("VK Podrugi Hacking %d%\n", i * 20);
   }
-  printf("NASA Hacked Successfully\n");
+  printf("VK Podrugi Hacked Successfully\n");
+  printf("Number Phone: +79857241812\n");
+  printf("Password: idinahuy007\n");
 }
