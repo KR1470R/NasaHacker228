@@ -12,6 +12,6 @@ int main()
       printf("VK Podrugi Hacking %d%\n", i * 20);
   }
   printf("VK Podrugi Hacked Successfully\n");
-  printf("Number Phone: +79857241812\n");
+  printf("Number Phone: +7XXXXXXXXXX\n");
   printf("Password: idinahuy007\n");
 }
